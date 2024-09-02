@@ -576,6 +576,7 @@ export default function ParticleComponent({ id }: Props) {
         <Particles
           id={id}
           options={options}
+          //@ts-ignore
           particlesLoaded={particlesLoaded}
         />
       )}
