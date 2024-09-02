@@ -68,7 +68,7 @@ const Hero = () => {
         </article>
         <div className="w-full flex flex-col gap-2 justify-center items-center z-10">
           <a
-            href="https://docs.google.com/forms/d/e/1FAIpQLSdT-D9cpaL0xLLYTuxB8nVJOXyhlu0kaC1M87EnmeRvUKCJOA/viewform?usp=sf_link"
+            href="https://forms.gle/ayGitsbxFZQALP3L6"
             target="_blank"
             className="border-[1px] border-zinc-700 p-1 py-3 rounded-md text-white flex items-center justify-center bg-white/15 hover:bg-gradient-to-r from-zinc-900 to-zinc-800 gap-2 w-full sm:w-1/2 cursor-pointer"
           >
@@ -76,7 +76,7 @@ const Hero = () => {
             <IoIosArrowRoundForward className="text-2xl font-bold" />
           </a>
           <a
-            href="https://discord.gg/73Da8rGR"
+            href="https://discord.gg/wJkPC4A3EB"
             target="_blank"
             className="border-[1px] border-zinc-700 p-1 py-3 rounded-md text-white flex items-center justify-center bg-white/15 hover:bg-gradient-to-r from-zinc-900 to-zinc-800 gap-2 w-full sm:w-1/2 cursor-pointer"
           >
